@@ -1,2 +1,4 @@
 # hello-world
-Create the first repository
+
+Hello humans!
+I am learning R on Coursera and this is my very first repo.
